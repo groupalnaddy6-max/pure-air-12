@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pure-air-12.pages.dev/sitemap.xml
